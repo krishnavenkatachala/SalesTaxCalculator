@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SalesTaxCalculator/bin/Debug/netcoreapp3.1
+/SalesTaxCalculator/obj
+/SalesTaxCalculator.Test/bin/Debug/netcoreapp3.1
+/SalesTaxCalculator.Test/bin/Release/netcoreapp3.1
+/SalesTaxCalculator.Test/obj/Debug/netcoreapp3.1
+/SalesTaxCalculator.Test/obj/Release/netcoreapp3.1
+/SalesTaxCalculator.Test/obj
